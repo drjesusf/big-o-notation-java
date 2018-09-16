@@ -6,6 +6,7 @@ Curso Ambientes de desarrollo de Software
 
 Tarea: 
 Migrar de lenguaje c# a un lenguaje de programación diferente (TOP10)
+
 Investigacion complejidad logaritmica  en busqueda binaria
 
 Alumno: Ramirez Flores Jesus David 
